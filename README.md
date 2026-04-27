@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This end-to-end project analyzes over 117,000 hotel bookings to uncover the root causes of cancellations and develops a Machine Learning predictive model to empower proactive decision-making and safe overbooking strategies.
+<img width="1274" height="713" alt="Animation_powerBI" src="https://github.com/user-attachments/assets/15efd927-869f-4760-ad13-6643ad20f7f7" />
 
 ## 🛠️ Tech Stack
 * **Data Cleaning & Analysis:** Python (Pandas, Matplotlib, Seaborn)
